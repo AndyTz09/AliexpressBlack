@@ -1,0 +1,14 @@
+*
+.form-Aceptamos .bottons {
+    width: 25%;
+    background: #000000;
+    border: none;
+    padding: 2%;
+    color: white;
+    margin: 3px 0;
+    font-size: 16px;
+        box-shadow: 7px 13px 37px #000;
+
+        
+    
+}
